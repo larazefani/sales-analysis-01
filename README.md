@@ -1,3 +1,3 @@
-## sales analysis using jupyter notebook
+## Sales analysis using jupyter notebook
 
-here's to see the interactive graphs i use in this analysis : https://nbviewer.org/github/larazefani/sales-analysis-01/blob/main/sales_analysis.ipynb
+Here's a link to the interactive graphs I used in this analysis: https://nbviewer.org/github/larazefani/sales-analysis-01/blob/main/sales_analysis.ipynb
